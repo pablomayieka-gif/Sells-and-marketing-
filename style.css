@@ -1,0 +1,50 @@
+body{
+  margin:10px;
+  padding:10px;
+  font-family:sans-serif;
+  box-sizing:border-box;
+}
+
+.home{
+  background: green;
+}
+.navbar img{
+  width: 80px;
+  height: 80px;
+  border-bottom: 5px blue solid ;
+  border-top:5px black solid;
+  border-radius:40px;
+  background: yellow;
+}
+.navbar{
+  list-style: none;
+  display: flex;
+  padding:10px;
+}
+.navbar li a{
+  margin:1%;
+  border:3px yellow solid;
+  padding:19px;
+  background: black;
+  border-radius:15%;
+  text-decoration:none ;
+  color: orange;
+}
+.pedro img{
+  width:170px;
+  height:170px;
+}
+.about{
+  background-color: yellow ;
+}
+.joshua{
+  width:49px;
+  height:50px;
+}
+.contact{
+  background-color: yellow ;
+    
+}
+.my video {
+  border:3px solid black ;
+}
